@@ -1,0 +1,23 @@
+# Texto em formato padrão
+
+*kjbdnsb*
+
+_posvaijbva_
+
+- lkjbsdd
+- sldfjjhvb´sasdfk
+
+1. ]
+2. sndgbn
+3. bdasf
+
+> nova função
+>
+> mais uma
+
+
+
+**Negrito**
+
+,
+
